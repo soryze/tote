@@ -1,0 +1,7 @@
+{
+  "name": "QuickOrder & Profit Manager",
+  "description": "Hệ thống quản lý đơn hàng, báo giá, tính toán lợi nhuận và in ấn dành cho cửa hàng chuyên doanh ngành in ấn/giấy chuyển nhiệt.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
